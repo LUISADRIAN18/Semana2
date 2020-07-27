@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semana2AdrianGarcia</string>
+    <string name="telefono">Telefono</string>
+    <string name="nombre">Nombre</string>
+    <string name="e_mail">e-mail</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="butn">Guardar</string>
+    <string name="btn2">Editar Datos</string>
+    <string name="fechsSelec">Click Seleccione Fecha Nacimiento</string>
+</resources>
